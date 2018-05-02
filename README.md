@@ -16,6 +16,7 @@ Time: 2018-06-09
 
 Topics:
 
-欢迎杭州周边的 GraphQL 开发者加入我们的微信群参与讨论（群已满，请扫描以下二维码添加 Scott 微信拉你进群，请注明：姓名 - 请加 GraphQL 群）
+欢迎杭州周边的 GraphQL 开发者加入我们的微信群参与讨论（如群已满，请扫描以下第二个二维码添加 Scott 微信拉你进群，请注明：姓名 - 请加 GraphQL 群）
 
+![](./graphql.jpeg)
 ![](./qrcode.jpeg)
