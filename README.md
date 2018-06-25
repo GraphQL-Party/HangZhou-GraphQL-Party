@@ -31,7 +31,8 @@ Topics:
 - [活动介绍和报名页面](http://www.huodongxing.com/event/7441170737900)
 - [PC直播连接-有录播](http://www.itdks.com/eventlist/detail/2260)
 - [手机端直播链接-有录播](http://www.itdks.com/dakashuo/playback/2260)
-- [话题相关的技术文章](https://juejin.im/user/5ae998fa518825670d72ebc5/posts)
+- [掘金宋小菜技术专栏-最新同步](https://juejin.im/user/5ae998fa518825670d72ebc5/posts)
+- [宋小菜技术博客-最新同步](https://juejin.im/user/5ae998fa518825670d72ebc5/posts)
 
 
 欢迎杭州周边的 GraphQL 开发者加入我们的微信群参与讨论（群已满，请扫描二维码添加 Scott 微信拉你进群，请注明：姓名-公司-加 GraphQL 群）
