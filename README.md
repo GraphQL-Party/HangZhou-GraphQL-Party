@@ -35,6 +35,6 @@ Topics:
 - [宋小菜技术博客-最新同步](https://tech.songxiaocai.com/)
 
 
-欢迎杭州周边的 GraphQL 开发者加入我们的微信群参与讨论（群已满，请扫描二维码添加 Scott 微信拉你进群，请注明：姓名-公司-加 GraphQL 群）
+欢迎杭州周边的 GraphQL 开发者加入我们的微信群参与讨论（群已满，请扫描二维码添加 Scott 微信拉你进群，微信号: codingdream，请注明：姓名-公司-加 GraphQL 群）
 
 ![](./qrcode.jpeg)
